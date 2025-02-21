@@ -1,4 +1,4 @@
-vCards CN
+vCards US
 =====
 
 导入常用联系人头像，优化 iOS 来电、信息界面体验。
